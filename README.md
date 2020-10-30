@@ -1,2 +1,1 @@
-# Its Rudreshwar Shandilya
-Nice DP VINI
+# Nice DP VINI
